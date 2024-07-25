@@ -17,6 +17,8 @@ I'm Muhammad Raheem Xada, a dedicated Software Engineering student with a strong
 This project is a Movie Recommendation System that uses Content-based filtering to recommend movies to users. By analyzing the content and features of movies, such as genres, cast, and keywords, the system can suggest movies that are similar to a given movie. This approach leverages the similarity between movie attributes to provide recommendations. The system is developed using Python, Pandas, Scikit-Learn, Streamlit, and Jupyter Notebook.
 
 
+![Movie recommendation system](./Dashboard.PNG)
+
 ## Table of Contents
 
 - [Installation](#installation)
