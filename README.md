@@ -24,8 +24,8 @@ This project is a Movie Recommendation System that uses Content-based filtering 
 
 3. **Download the required pickle files:**
    Download the pickle files from the following links and place them in the project directory folder:
-    - [Pickle File 1](https://drive.google.com/file/d/your_pickle_file_1_link)
-    - [Pickle File 2](https://drive.google.com/file/d/your_pickle_file_2_link)
+    - [movie_list.pkl](https://drive.google.com/file/d/1IjNFDEGsFES7M_WgX2UHhYJJTDR7l1DK/view?usp=drive_link)
+    - [similarity.pkl](https://drive.google.com/file/d/12ZYX27bNVloUkzszRDg8bCVM7gTiYDdn/view?usp=drive_link)
 
 4. **Install the required libraries:**
     ```bash
