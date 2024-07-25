@@ -14,7 +14,7 @@ This project is a Movie Recommendation System that uses Content-based filtering 
 
 ## Installation
 
-1. ### Clone the repository:
+1. **Clone the repository:**
     ```bash
     git clone https://github.com/Coding-Scorpion/Movie-Recommendation-System-Using-Machine-Learning.git
     cd Movie-Recommendation-System-Using-Machine-Learning
@@ -49,10 +49,6 @@ The app will open in your default web browser, and you can start using the movie
 ## Contributing
 
 Contributions are welcome! Feel free to open an issue or submit a pull request if you have any ideas, suggestions, or problems.
-
-**Contributors:**
-- Muhammad Raheem Zada: [GitHub Profile](https://github.com/Coding-Scorpion)
-- Shahabullah: [GitHub Profile](https://github.com/Shahabullah2304)
 
 ## Contact
 
