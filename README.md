@@ -1,3 +1,17 @@
+
+# Hi, I'm Muhammad Raheem Xada! 👋
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://raheemxada.netlify.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raheemxada41/)
+[![Medium](https://img.shields.io/badge/medium-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://medium.com/@raheemxada41)
+
+
+## 🚀 About Me
+I'm Muhammad Raheem Xada, a dedicated Software Engineering student with a strong passion for Data Analytics, Data Science, and Machine Learning.
+
+
 # Movie Recommendation System Using Machine Learning
 
 This project is a Movie Recommendation System that uses Content-based filtering to recommend movies to users. By analyzing the content and features of movies, such as genres, cast, and keywords, the system can suggest movies that are similar to a given movie. This approach leverages the similarity between movie attributes to provide recommendations. The system is developed using Python, Pandas, Scikit-Learn, Streamlit, and Jupyter Notebook.
@@ -57,5 +71,5 @@ For any inquiries or questions, please contact the authors:
 - Shahabullah: shahabullah990@gmail.com
 
 ## License
-
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 This project is licensed under the MIT License.
